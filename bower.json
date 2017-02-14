@@ -40,7 +40,7 @@
     "paper-tooltip": "PolymerElements/paper-tooltip#^1.1.2",
     "ros-service": "jstnhuang/ros-service#^1.0.1",
     "ros-websocket": "jstnhuang/ros-websocket#^2.0.0",
-    "ros3djs": "SirVer/ros3djs#c61f63c3ceeeaa492861f35a4341ddcfbca32937"
+    "ros3djs": "SirVer/ros3djs#e695c5aec701c7a3791eb83f0ce752c25236608b"
   },
   "devDependencies": {
     "iron-component-page": "PolymerElements/iron-component-page#^1.0.0",
